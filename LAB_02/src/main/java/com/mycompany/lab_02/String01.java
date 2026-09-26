@@ -1,3 +1,4 @@
+package com.mycompany.lab_02;
 public class String01 {
     
     public static void main(String[] args) {

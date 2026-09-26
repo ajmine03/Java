@@ -1,5 +1,8 @@
+package com.mycompany.lab_02;
+
 public class LargestNumb {
-        public static void main(String[] args) {
+
+    public static void main(String[] args) {
         int a = 10;
         int b = 20;
         int c = 30;
@@ -12,4 +15,5 @@ public class LargestNumb {
             System.out.println("b is the largest");
         }
     }
+
 }
